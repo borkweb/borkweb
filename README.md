@@ -1,22 +1,9 @@
-### Howdy, I'm Matt! (he/him)
+### Howdy, I'm Matt!
 
 I'm a full-stack sort of fella and am the Head of Engineering for [The Events Calendar](https://theeventscalendar.com).
 
-💻 The majority of my work life is spent in WordPress or WordPress adjacent projects where I work with piles of smart people within [StellarWP](https://stellarwp.com). I love to tinker with things, so I'm comfortable with both backend and frontend engineering, devops, and strategy.
-
-🎨 Doodling is a side interest of mine—I've illustrated a children's book and a couple of book covers; done some cheesey commissions; and I often try to find ways to have an artistic outlet at work, too, so I draw The Events Calendar [release mascots](https://www.artstation.com/borkweb/albums/3807820).
-
-<!--
-**borkweb/borkweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Head of Engineering at [The Events Calendar](https://theeventscalendar.com)
+- 🍴 I am full-stack - I dabble in backend, frontend, devops, and strategy
+- 🎨 I [doodle sometimes](https://www.artstation.com/borkweb) (I make The Events Calendar [release mascots](https://www.artstation.com/borkweb/albums/3807820))
+- 💬 Ask me about WordPress plugin development, management, and tortillas
+- 😄 Pronouns: He/Him
