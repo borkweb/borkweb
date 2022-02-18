@@ -1,6 +1,10 @@
 ### Howdy, I'm Matt! (he/him)
 
-I'm the Head of Engineering for [The Events Calendar](https://theeventscalendar.com).
+I'm a full-stack sort of fella and am the Head of Engineering for [The Events Calendar](https://theeventscalendar.com).
+
+The majority of my work life is spent in WordPress or WordPress adjacent projects where I work with piles of smart people within [StellarWP](https://stellarwp.com). I love to tinker with things, so I'm comfortable with both backend and frontend engineering, devops, and strategy.
+
+Doodling is a side interest of mine—I've illustrated a children's book and a couple of book covers; done some cheesey commissions; and I often try to find ways to have an artistic outlet at work, too, so I draw The Events Calendar [release mascots](https://www.artstation.com/borkweb/albums/3807820).
 
 <!--
 **borkweb/borkweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
